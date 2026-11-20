@@ -1,0 +1,10 @@
+sch.c:19:16:time_reached	16	static
+sch.c:24:16:task_before	24	static
+sch.c:42:13:insert_task	32	static
+sch.c:56:17:remove_task_at	40	static
+sch.c:70:6:SCH_Init	8	static
+sch.c:78:10:get_time	4	static
+sch.c:83:10:SCH_Add_Task	40	static
+sch.c:108:9:SCH_Delete_Task	40	static
+sch.c:129:6:SCH_Update	4	static
+sch.c:135:6:SCH_Dispatch_Tasks	56	static
